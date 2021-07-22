@@ -2,7 +2,7 @@ Salam
 
 This is Arif, an undergraduate student of Mechanical Engineering
 
--Interested on embedded system, IOT, ML
+-Interested in embedded system, IOT, ML
 
 -love to face problems and solve them
 
