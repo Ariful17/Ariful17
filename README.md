@@ -1,7 +1,10 @@
 <h1 align="center">Salam, I'm Arif</h1>
 <h3 align="center">An undergrad student of mechanical engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+![- Find   Share on GIPHY](https://user-images.githubusercontent.com/87447678/161632352-8f226901-be3c-45f8-88aa-98abfa586363.gif)
+
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful17&label=Profile%20views&color=0e75b6&style=flat" alt="ariful17" /> </p>
 
