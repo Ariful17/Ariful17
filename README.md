@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful17&label=Profile%20views&color=0e75b6&style=flat" alt="ariful17" /> </p>
 
-- 🔭 currently working on **final year project**
 
 - 💬 Ask me about **arduino projects, IOT, raspberry pi**
 
