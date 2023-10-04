@@ -1,5 +1,5 @@
 <h1 align="center">Salam, I'm Arif</h1>
-<h3 align="center">An undergrad student of mechanical engineering</h3>
+<h3 align="center">A graduate student of mechanical engineering</h3>
 
 ![- Find   Share on GIPHY](https://user-images.githubusercontent.com/87447678/161632352-8f226901-be3c-45f8-88aa-98abfa586363.gif)
 
